@@ -13,5 +13,6 @@ public void m1() {
 public void m2() {
 	Reporter.log("Lets do Kummudu",true);
 	Assert.fail();//Intentionally we are failing the TC
+	System.out.println("It is my first updation from github");
 }
 }
